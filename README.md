@@ -65,6 +65,9 @@ ChefBot Indonesia integrates three technologies working together:
 8. Agent Definition
 9. Start the chatbot
 
+# Link Google Collab
+https://colab.research.google.com/drive/1-JllJhRGAK0znXGYpisR8FSLdInYVNYy?usp=sharing
+
 
 
 
